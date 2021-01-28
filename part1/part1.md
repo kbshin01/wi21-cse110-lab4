@@ -28,20 +28,35 @@
     D. console.log(student['Favorite Teacher'].name); <br>
     E. console.log(student.courseLoad[0]);
     
-14. A.<br>
-    B.<br>
-    C.<br>
-    D.<br>
-    E.<br>
-    F.<br>
-    G.<br>
-    H.
+14. A. '32' <br>
+    B. 1 <br>
+    C. 3 <br>
+    D. '3null' <br>
+    E. 4 <br>
+    F. 0 <br>
+    G. '3undefined' <br>
+    H. NaN
     
-15. A.<br>
-    B.<br>
-    C.<br>
-    D.<br>
-    E.<br>
-    F.
+15. A. true <br>
+    B. false <br>
+    C. true <br>
+    D. false <br>
+    E. false <br>
+    F. true
     
-16. 
+16. `==` compares two variables while ignoring the data type, while `===` compares two variables while keeping the data types in mind.
+
+17. `'How are you?'` gets printed because `(2 == true)` returns false, so the initial `if` statement will not work and it will go to the `else if` statement. Because the value in the `else if` statement is not 0, it will run whatever is inside of that respective code block.
+
+18. (refer to `part1-question18.js`)
+
+19. Upon calling `modifyArray([1,2,3], doSomething)`, the result should be the modified array `[6,8,10]`. We are running `doSomething` on each element in the input array, which adds 2 to that very element. We then use the output of `doSomething` for each of the values as inputs for `function(x)`, which will multiply our new values by 2. Essentially, for a value `x`, we are doing `(x + 2) * 2`. We push each of these newly modified values to `newArr` and return that array.
+
+20. (refer to `part1-question20.js`)
+
+21. <pre>
+    > 1
+    > 4
+    > 3
+    > 2
+    </pre>
