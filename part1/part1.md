@@ -22,4 +22,26 @@
 
 12. The function call for `discountPrices([100,200,300],.5)` will result in a compile time error due to attempted assignment to a `const` variable. Therefore, it will not return anything but that error and the function will not work as intended.
 
-13. 
+13. A. console.log(student.name); <br>
+    B. console.log(student['Grad Year']); <br>
+    C. student.greeting(); <br>
+    D. console.log(student['Favorite Teacher'].name); <br>
+    E. console.log(student.courseLoad[0]);
+    
+14. A.<br>
+    B.<br>
+    C.<br>
+    D.<br>
+    E.<br>
+    F.<br>
+    G.<br>
+    H.
+    
+15. A.<br>
+    B.<br>
+    C.<br>
+    D.<br>
+    E.<br>
+    F.
+    
+16. 
