@@ -10,20 +10,20 @@ The bug was that the `result` variable was of type "string" instead of some nume
 
 <h3> DevTools - Network Tab </h3>
 
-1. 
+1. citylots.json
 
-2. 
+2. part2.js
 
-3. 
+3. 11687628 bytes
 
-4. 
+4. 167.82 ms
 
-5. 
+5. Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
 
-6. 
+6. Apache
 
-7. 
+7. Tue, 26 Jan 2021 22:14:13 GMT
 
-8. 
+8. application/json
 
-9. 
+9. fetchData()
