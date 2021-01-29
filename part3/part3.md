@@ -5,3 +5,25 @@
 The bug was that the `result` variable was of type "string" instead of some numeric type. This was because the input variables when running `calculateSum()` were not numeric types, so we can just use a function such as `parseInt()` to turn the input variables into numeric types that will add correctly.
 
 ![bug fix](https://github.com/kbshin01/wi21-cse110-lab4/blob/main/part3/media/cse110lab4.fix.PNG)
+
+<hr>
+
+<h3> DevTools - Network Tab </h3>
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+7. 
+
+8. 
+
+9. 
